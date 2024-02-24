@@ -31,3 +31,16 @@ body {
     background-color: #800000;
     color: white;
   }
+
+  .overlay {
+
+    width: 90%;
+    height: 40%;
+  
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('HM-logo-tagline.png');
+    background-size: cover;
+    background-position: center;
+    padding: 80px;
+    text-align: center;
+    color: white;
+  }
